@@ -1,4 +1,3 @@
-# vim:ft=Dockerfile
 FROM debian:sid
 
 RUN echo force-unsafe-io > /etc/dpkg/dpkg.cfg.d/docker-apt-speedup

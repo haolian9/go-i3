@@ -32,12 +32,6 @@
   version = "v0.2.0"
 
 [[projects]]
-  name = "go.i3wm.org/i3"
-  packages = ["."]
-  revision = "890d407a1a6abb06738c7a960277e3e39d4cfc29"
-  version = "4.14.1"
-
-[[projects]]
   branch = "master"
   name = "golang.org/x/net"
   packages = ["context"]
@@ -52,6 +46,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "4df2df134d07a492fb6a7f7cfdf1fd8645d76c9d1eb477a735a73eadf269fead"
+  inputs-digest = "256dc6b26fa1fcc2b6a66556e6bda25cae338c508fb34186573e30b2ecdd5fc1"
   solver-name = "gps-cdcl"
   solver-version = 1

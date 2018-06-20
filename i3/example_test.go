@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"go.i3wm.org/i3"
+	"github.com/haolian9/go-i3/i3"
 )
 
 func ExampleIsUnsuccessful() {
